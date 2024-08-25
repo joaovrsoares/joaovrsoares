@@ -1,4 +1,4 @@
-## 👋 olá
+## 👋
 programador movido por ☕ e 🎸<br>atualmente aprendendo front-end e inglês
 #### eu programo com
 <div align="left">
