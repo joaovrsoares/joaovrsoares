@@ -1,5 +1,5 @@
 ## 👋
-programador movido por ☕ e 🎸<br>atualmente aprendendo front-end e inglês
+programador movido por ☕, 📖 e 🎸<br>atualmente aprendendo react e inglês
 #### eu programo com
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -7,6 +7,8 @@ programador movido por ☕ e 🎸<br>atualmente aprendendo front-end e inglês
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
