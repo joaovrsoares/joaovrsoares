@@ -1,4 +1,4 @@
 ## 👋
-programador movido por ☕, 📖 e 🎸<br>atualmente aprendendo react e inglês
+programador movido por ☕, 📖 e 🎸<br>atualmente aprendendo linguagem C
 #### eu programo com
-![](https://skillicons.dev/icons?theme=dark&i=py,php,mysql,react,js,html,css,linux)
+![](https://skillicons.dev/icons?theme=dark&i=c,linux,py,php,js,react,mysql)
